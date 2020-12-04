@@ -9,4 +9,6 @@ submission_4.csv:
 submission_7.csv:
 	LGBMClassifier() on removing 
 ['Unnamed: 0', 'userId', 'num_of_hashtags_per_action', 'emoji_count_per_action', 'avgComments', 'gender', 'punctuations_per_action', 'tier']
+submission_8.csv:
+	LGBMClassifier() on raw data
 
