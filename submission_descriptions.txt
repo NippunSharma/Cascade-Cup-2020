@@ -1,2 +1,5 @@
 submission_1.csv:
 	RandomForestClassifier() on raw data
+submission_2.csv:
+	AdaBoostClassifier() on raw data
+
