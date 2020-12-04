@@ -2,4 +2,9 @@ submission_1.csv:
 	RandomForestClassifier() on raw data
 submission_2.csv:
 	AdaBoostClassifier() on raw data
+submission_3.csv:
+	XGBClassifier() on raw data
+submission_4.csv:
+	CatBoostClassifier() on raw data
+
 
