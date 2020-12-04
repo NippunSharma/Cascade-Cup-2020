@@ -1,0 +1,26 @@
+userId	Unique number given to each user.
+tier	Tier of the city in which the user is residing.
+gender	Categorical feature representing the gender of the user. 1 represents male and 2 represents female.
+following_rate	Number of accounts followed by the user(feature is normalized)
+followers_avg_age	Average of age groups of all the followers of the user.
+following_avg_age	Average of age groups of all the accounts followed by the user.
+max_repetitive_punc	Maximum repititive punctuations found in the bio and comments of the user.
+num_of_hashtags_per_action	Average nubmer of hashtags used by the user per comment.
+emoji_count_per_action	Average number of emojis used by the user per comment.
+punctuations_per_action	Average number of punctuations used by the user per comment.
+number_of_words_per_action	Average number of words used by the user per comment.
+avgCompletion	Average watch time completion rate of the videos.
+avgTimeSpent	Average time spent by the user on a video in seconds.
+avgDuration	Average duration of the videos that the user has watched till date.
+avgComments	Average number of comments per video watched.
+creations	Total number of videos uploaded by the user.
+content_views	Total number of videos watched.
+num_of_comments	Total number of comments made by the user (normalized)
+weekends_trails_watched_per_day	Number of videos watched on weekends per day.
+weekdays_trails_watched_per_day	Number of videos watched on weekdays per day.
+slot1_trails_watched_per_day	The day is divided into 4 slots. This feature represents the average number of videos watched in this particular time slot.
+slot2_trails_watched_per_day	The day is divided into 4 slots. This feature represents the average number of videos watched in this particular time slot.
+slot3_trails_watched_per_day	The day is divided into 4 slots. This feature represents the average number of videos watched in this particular time slot.
+slot4_trails_watched_per_day	data
+avgt2	Average number of followers of all the accounts followed by the user.
+age_group	This is a categorical feature denoting the age of the user. Age of users is divided into 4 groups, 1: <18y; 2: 18-24y; 3: 24-30y; 4: >30y
