@@ -6,5 +6,7 @@ submission_3.csv:
 	XGBClassifier() on raw data
 submission_4.csv:
 	CatBoostClassifier() on raw data
-
+submission_7.csv:
+	LGBMClassifier() on removing 
+['Unnamed: 0', 'userId', 'num_of_hashtags_per_action', 'emoji_count_per_action', 'avgComments', 'gender', 'punctuations_per_action', 'tier']
 
