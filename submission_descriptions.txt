@@ -6,5 +6,10 @@ submission_3.csv:
 	XGBClassifier() on raw data
 submission_4.csv:
 	CatBoostClassifier() on raw data
+submission_5.csv:
+	CatBoostClassifier() on raw data (6 models) [BOGUS]
+submission_6.csv:
+	CatBoostClassifier() on raw data (6 models) [BOGUS]
+
 
 
